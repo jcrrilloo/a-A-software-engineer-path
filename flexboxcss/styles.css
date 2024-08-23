@@ -5,9 +5,15 @@ body{
     min-height: 800px;
     align-items: center;
 }
+.box1{
+    display: flex;
+    align-items: center;
+}
 .box{
     height: 200px;
     width: 200px;
-    background-color: blue;
+    border-radius: 10px;
+    padding: 1em;
+    background-color: #0000ff;
     font-size: 30pt;
 }
